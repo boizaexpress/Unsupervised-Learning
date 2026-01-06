@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 | Name | Email |
 |------|-------|
-| Team Member 1 | team_member_email@example.com |
+| Team Member 1 | boiza.express@gmail.com |
 
 ---
 
