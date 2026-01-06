@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360">
+  <rect width="100%" height="100%" fill="#111827"/>
+  <rect x="8" y="8" width="224" height="120" fill="#1f2937" rx="6"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="#f3f4f6" font-family="Arial" font-size="20">Poster</text>
+  <rect x="8" y="140" width="224" height="200" fill="#111827" rx="6"/>
+  <text x="12" y="170" fill="#9ca3af" font-family="Arial" font-size="12">Title: Example Anime</text>
+  <text x="12" y="190" fill="#9ca3af" font-family="Arial" font-size="12">Genre: Action, Adventure</text>
+</svg>

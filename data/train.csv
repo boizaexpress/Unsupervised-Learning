@@ -1,0 +1,4 @@
+user_id,anime_id,rating
+# Example rows (replace with real data):
+1001,1,8
+1002,2,7

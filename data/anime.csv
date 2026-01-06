@@ -1,0 +1,4 @@
+anime_id,name,genre,type,episodes,rating,members
+# Example rows (replace with real data):
+1,Example Anime,Action|Adventure,TV,24,8.12,12345
+2,Another Anime,Drama|Fantasy,TV,12,7.85,6789

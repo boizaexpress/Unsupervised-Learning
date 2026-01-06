@@ -1,0 +1,4 @@
+user_id,anime_id
+# Example rows (replace with real pairs to predict):
+1003,1
+1004,2

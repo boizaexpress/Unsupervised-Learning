@@ -13,6 +13,7 @@
 	If no appropriate projectType is available, search documentation using available tools.
 	Otherwise, create the project structure manually using available file creation tools.
 	-->
+	<!-- Project structure created: src/, data/, notebooks/, tests/, requirements.txt, README.md, .gitignore, main.py. Git initialized and pushed to GitHub repo. -->
 
 - [ ] Customize the Project
 	<!--
