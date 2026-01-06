@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="60" y="90" font-family="Arial" font-size="32" fill="#0f1724">Project Overview</text>
+  <line x1="60" y1="105" x2="1220" y2="105" stroke="#e5e7eb" stroke-width="2"/>
+  <text x="60" y="150" font-family="Arial" font-size="18" fill="#374151">Goal: build unsupervised pipelines and a content-based recommender for anime titles.</text>
+  <text x="60" y="180" font-family="Arial" font-size="16" fill="#374151">Deliverables:</text>
+  <text x="80" y="210" font-family="Arial" font-size="14" fill="#374151">• Notebook demos (PCA + KMeans)</text>
+  <text x="80" y="235" font-family="Arial" font-size="14" fill="#374151">• Recommender prototype (feature extraction + similarity)</text>
+  <text x="80" y="260" font-family="Arial" font-size="14" fill="#374151">• Final report and slide deck</text>
+</svg>
