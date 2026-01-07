@@ -7,4 +7,5 @@
   <text x="80" y="210" font-family="Arial" font-size="14" fill="#374151">• `scikit-learn` (PCA, KMeans, preprocessing)</text>
   <text x="80" y="235" font-family="Arial" font-size="14" fill="#374151">• `matplotlib` for plots, `jupyter` for notebooks</text>
   <text x="60" y="320" font-family="Arial" font-size="14" fill="#6b7280">Environment: Python 3.9 (conda recommended). See `requirements.txt`.</text>
+  <image href="../images/anime_2.svg" x="900" y="200" width="240" height="360"/>
 </svg>
