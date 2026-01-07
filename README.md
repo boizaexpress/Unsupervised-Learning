@@ -61,4 +61,3 @@ pip install -r requirements.txt
 
 ---
 
-If you'd like, I can add a sample notebook that runs PCA + KMeans and a `src/` helper module with tests next.
